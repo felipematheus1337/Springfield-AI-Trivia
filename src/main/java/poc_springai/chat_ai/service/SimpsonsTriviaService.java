@@ -1,6 +1,5 @@
 package poc_springai.chat_ai.service;
 
-import com.openai.models.ChatModel;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.ai.chat.client.ChatClient;
